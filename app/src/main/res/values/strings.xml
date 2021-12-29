@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ManageYourInventoryApp</string>
+    <string name="uploadImage">Upload Image</string>
+    <string name="TakePhoto">Take Photo</string>
+    <string name="UpdateProduct">Update product</string>
+    <string name="DeleteProduct">Delete Product</string>
+    <string name="activity_inventory">Inventory</string>
+    <string name="activity_invoice">Invoice</string>
+    <string name="activity_sales_report">Sales Report</string>
+
+
+</resources>
